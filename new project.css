@@ -1,0 +1,69 @@
+body
+{
+  background-image: url(images/jjk.jpg);
+  min-height: 80vh;
+  background-size: cover;
+  background-position: center;
+
+}
+header
+{
+    width: 100%;
+    background:transparent;
+    padding: 10px;
+    display: flex;
+}
+.navbar
+{
+    margin: 0px;
+    text-decoration: none;
+    color: aliceblue;
+    padding-top:  10px;
+}
+
+.a
+{
+    margin: 20px 30px;
+}
+.a:hover
+{
+color:coral;
+}
+.navbar input
+{
+    float: right;
+    border-radius:15px ;
+}
+.main
+{
+    height:75vh ;
+    width:100% ;
+    background:transparent;
+    padding:12px ;
+
+}
+.anime
+{
+    height:70vh ;
+    width:18% ;
+    background:transparent;
+    float: left;
+    margin:25px ; 
+    color: white;
+    text-align: center;
+}
+.second
+{
+    height:75vh ;
+    width:100% ;
+    background:transparent;
+    padding:12px ;
+}    
+footer
+{
+    width: 100%;
+    height: 100px ;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
